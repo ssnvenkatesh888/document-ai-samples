@@ -2,14 +2,6 @@
 This documentation outlines the procedure for detecting the signature in the document by taking normalized bounding box coordinates of signature location.
 While using this code, the user needs to set two values while calling the function a) BlankLine Pixel count b)  Signature Pixel Count (only for the black pixels).
 
-# Prerequisites
-
-1. Access to vertex AI Notebook or Google Colab
-2. Python
-3. Python Libraries like cv2, PIL, base64, io, numpy etc.
-
-# Step by Step procedure
-
 ## 1. Input details
 
 <ul>
@@ -20,7 +12,7 @@ While using this code, the user needs to set two values while calling the functi
     <li><b>signature_threshold_pixel_count: </b>Threshold Count of the total black pixel (considering the image is a binary image(black & white)) signature field having signature in it.
 </ul>
 
-## 3.Output
+## 2.Output
 
 upon execution code , it will prompt whether the given image with bounding box coordinates is having the signature in it or not.
 
