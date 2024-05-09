@@ -2,14 +2,6 @@
 
 This documentation outlines the procedure for handling special characters within the CDE JSON samples. It involves replacing the original mention text value with its corresponding post-processed value using the provided code.
 
-# Prerequisites
-
-1. Access to vertex AI Notebook or Google Colab
-2. Python
-3. Access to the google storage bucket.
-
-# Step by Step procedure
-
 ## 1. Input Details
 
 <ul>
