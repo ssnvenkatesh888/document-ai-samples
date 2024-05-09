@@ -16,7 +16,7 @@ This result json files can be imported into a processor to further check the ann
 In otherwords it is a schema file containing a tabular data with header row as name of the entities that needs to be identified and annotated in the document and the following rows are for each file whose values needs to be extracted.
 
     <img src='./images/csv_sample.png' width=800 height=400 alt="csv_sample_image">
- 
+
 ## Output Details
 As we can observe, data mentioned in csv is annotated in DocAI proto results
 <img src='./images/output_sample.png' width=800 height=400 alt="output_image"></img>
