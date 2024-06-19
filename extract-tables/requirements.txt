@@ -1,5 +1,0 @@
-typing
-pandas
-
-google-api-core
-google-cloud-documentai
