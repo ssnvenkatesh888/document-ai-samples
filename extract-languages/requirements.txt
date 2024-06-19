@@ -1,4 +1,0 @@
-google-api-core
-google-cloud-documentai==2.15.0
-
-pandas
